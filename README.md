@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:2563eb,100:06b6d4&height=220&section=header&text=Sakthi%20Nikesh&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20%C2%B7%20Web%20%26%20Mobile&descAlignY=58&descSize=20" alt="Header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:2563eb,100:06b6d4&height=200&section=header&text=Sakthi%20Nikesh&fontSize=56&fontColor=ffffff" alt="Header" width="100%"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2563EB&center=true&vCenter=true&width=760&lines=Building+fast%2C+accessible+web+experiences;Next.js+%C2%B7+React+%C2%B7+TypeScript;React+Native+%C2%B7+Expo+%C2%B7+Mobile+UI;Motion+design+that+serves+the+product" alt="Typing animation" />
@@ -17,7 +17,7 @@ I build modern, performant interfaces for the web and mobile. My focus is on cle
 ## Tech stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=typescript,javascript,react,nextjs,tailwind,html,css,framer,git,github,vscode,figma,nodejs,postgres" alt="Tech stack" />
+  <img src="https://skillicons.dev/icons?i=typescript,javascript,react,nextjs,tailwind,html,css,git,github,vscode,figma,nodejs,postgres" alt="Tech stack" />
 </p>
 
 <p align="center">
@@ -32,8 +32,7 @@ I build modern, performant interfaces for the web and mobile. My focus is on cle
 ## GitHub stats
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=nikeshsakthi&show_icons=true&hide_border=true&theme=tokyonight" alt="GitHub stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikeshsakthi&layout=compact&hide_border=true&theme=tokyonight" alt="Top languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nikeshsakthi&theme=tokyo_night" alt="GitHub profile summary" />
 </p>
 
 <p align="center">
