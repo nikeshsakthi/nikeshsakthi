@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:2563eb,100:06b6d4&height=200&section=header&text=Sakthi%20Nikesh&fontSize=56&fontColor=ffffff" alt="Header" width="100%"/>
+<img src="header.svg" alt="Sakthi Nikesh - Frontend Developer" width="100%"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2563EB&center=true&vCenter=true&width=760&lines=Building+fast%2C+accessible+web+experiences;Next.js+%C2%B7+React+%C2%B7+TypeScript;React+Native+%C2%B7+Expo+%C2%B7+Mobile+UI;Motion+design+that+serves+the+product" alt="Typing animation" />

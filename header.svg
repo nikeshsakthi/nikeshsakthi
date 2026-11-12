@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="220" viewBox="0 0 1280 220">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0f172a"/>
+      <stop offset="50%" stop-color="#2563eb"/>
+      <stop offset="100%" stop-color="#06b6d4"/>
+    </linearGradient>
+  </defs>
+  <rect width="1280" height="220" fill="url(#bg)"/>
+  <g font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" text-anchor="middle">
+    <text x="640" y="105" font-size="56" font-weight="700" fill="#ffffff">Sakthi Nikesh</text>
+    <text x="640" y="150" font-size="22" fill="#e0f2fe">Frontend Developer · Web &amp; Mobile</text>
+  </g>
+</svg>
